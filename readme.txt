@@ -10,5 +10,5 @@ Git is free software under GPL .
 我来改bug
 
 
-我是在家里吧啦啦啦改掉了
+我是了
 为什么没有起冲突啊
